@@ -28,3 +28,15 @@ Did you take notes? You can share them here (or in each unit separately)
 * [Notes by Kemal](https://github.com/kemaldahha/machine-learning-course/blob/main/week_1_notes.md)
 * [Notes by Maximilien Eyengue](https://github.com/maxim-eyengue/Python-Codes/blob/main/ML_Zoomcamp_2024/01_intro/Summary_Session_01.md)
 * Add your notes here
+
+
+Paso a paso para ejecutar el codigo:
+
+# Para crearlo 
+
+python3 -m venv ml_zoomcamp_01
+
+# Para activarlo:
+
+source ml_zoomcamp_01/bin/activate
+
